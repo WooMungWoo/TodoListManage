@@ -31,7 +31,7 @@
 </template>
 
 <script>
-// test default 2
+// test default 3
 export default {
   name: 'HelloWorld',
   props: {
